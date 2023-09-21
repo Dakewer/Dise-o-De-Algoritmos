@@ -1,4 +1,4 @@
-#TAREA 10 Números_primos
+#TAREA 10 Números primos
 import math
 print("inserte el numero a analizar \n")
 flag = False
